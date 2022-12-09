@@ -1,0 +1,175 @@
+[
+    [
+        {
+            "ID": "page1",
+            "Headers": "Top Place to Visit at Siem Reap",
+            "tilte": "Angkor Wat",
+            "writer": "Lim Senghak",
+            "date": "Th 28,2022",
+            "image": "Angkor-Wat.jpg",
+            "paragraph1": "The magnificent spires of an old stone city tower upwards over the enormous complex of Angkor Archaeological Park deep in the jungles of Cambodia's Siem Reap province.From the 9th through the 15th century, the Khmer Empire's numerous capitals prospered here, while its monarchs ruled over an empire that spanned from Myanmar (Burma) to Vietnam.Angkor encompasses more than 400 square kilometers, including wooded regions and freshly found 'suburbs'.The temple was devoted to the Hindu gods Shiva, Brahma, and Vishnu, and all of the original religious elements were borrowed from Hinduism.",
+            "paragraph2": "There are several other wonders of the world lists, among them wonders of nature, engineering and the industrial world. Although not on any of these lists, Angkor Wat is often considered “the 8th Wonder of the World”.",
+            "paragraph3": "The five central towers of Angkor Wat represent the summits of Mount Meru, which is said to be the home of the gods in Hindu mythology. The mountain is claimed to be encircled by an ocean, and the complex's massive moat alludes to the waters at the world's end.The location is accessible through a 617-foot (188-metre) bridge. The temple is accessed by three galleries, each divided by a paved path. The temple walls are adorned with high-quality bas-relief sculptures depicting Hindu gods, ancient Khmer themes, and scenes from the Mahabharata and Ramayana.The classic Seven Wonders of the Ancient World list includes only monuments around the Mediterranean Sea.",
+            "previous": "Siem Reap",
+            "src": "index1.html",
+            "footerImg": "Siem Reap.jpg",
+            "next": "Ta Prohm",
+            "src1": "index1_Web.html",
+            "nextImg":"Ta_phrom.jpg"
+
+        }
+    ],
+    [
+        {
+            "ID": "page2",
+            "Headers": "Top Place to Visit at Siem Reap",
+            "tilte": "Ta Prohm",
+            "writer": "Lim Senghak",
+            "date": "Th 29, 2022",
+            "image": "Ta_phrom.jpg",
+            "paragraph1": "Ta Prohm's condition of ruin is a state of beauty that is explored with joy and abandoned with regret. Ta Prohm is located to the southwest of East Mebon and to the east of Angkor Thom. Its outside enclosure is located at the intersection of Banteay Kdei.It may be accessible by entering the monument from the west and exiting from the east.Ta Prohm is unquestionably the capital of the Kingdom of the Trees.Archaeologists have left it alone with the exception of creating a walkway for tourists and structural reinforcement to prevent future degradation.",
+            "paragraph2": "A Sanskrit inscription on stone, which is still in place, provides information about the temple. Ta Prohm consists of 3,140 settlements. The temple required 79,365 people to maintain it, including 18 great priests, 2,740 administrators, 2,202 helpers, and 615 dancers. Among the temple's possessions were a set of gold plates weighing more than 500 kilos, 35 diamonds, 40,620 pearls,4,540 valuable stones, 876 Chinese veils, 512 silk beds, and 523 parasols. Even if these figures were undoubtedly overstated to praise the king, Ta Prohm must have been a significant and spectacular edifice.",
+            "paragraph3": "Ta Prohm, also known as the 'Tomb Raider Temple,' is shrouded in dappled gloom, its decaying towers and walls bound in the slow muscular embrace of huge root systems. Ta Prohm, without a doubt the most evocative ruin in Angkor,should be at the top of every visitor's agenda. Its allure stems from the fact that, unlike the other Angkor structures, it has been eaten by the forest and seems much how the rest of the Angkor monuments did when European explorers first discovered them.",
+            "previous": "Angkor Wat",
+            "src": "index1_Web.html",
+            "footerImg": "Angkor-Wat.jpg",
+            "next": "Cambodian Cultural Village",
+            "src1": "index1_Web.html",
+            "nextImg":"Cambodian Cultural Village.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page3",
+            "Headers": "Top Place to Visit at Siem Reap",
+            "tilte": "Cambodian Cultural Village",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Cambodian Cultural Village.jpg",
+            "paragraph1": "Cambodian Cultural Village is a one-of-a-kind Siem Reap attraction where you may learn about the country's traditional culture,beliefs, and customs, as well as the practices of many ethnic groups. The history museum, which has 30 life-sized wax figures of notable kings, queens, diplomats, monks, ethnic minorities, movie stars, and Apsara dancers in traditional costumes,is one of the cultural village's major attractions.",
+            "paragraph2": "Numerous small replicas of Cambodia's renowned landmarks, including the old capital of Ou Dong, the National Museum, the Royal Palace, Wat Phnom, and Siem Reap's reclining Buddha, are also on show inside the museum. Cambodia Cultural Village is located on National Road, just a 5-minute taxi ride from the downtown of Siem Reap.",
+            "paragraph3": "",
+            "previous": "Ta Prohm",
+            "src": "index1_Web.html",
+            "footerImg": "Ta_phrom.jpg",
+            "next": "Siem Reap",
+            "src1": "index1.html",
+            "nextImg":"Siem Reap.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page4",
+            "Headers": "Top Place to Visit at Phnom Penh",
+            "tilte": "Tuol Sleng Genocide Museum",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Tuol_Sleng.jpg",
+            "paragraph1": "UNESCO's Tuol Sleng Genocide Museum (TSGM) archives preservation and digitalization initiative seeks to conserve and make accessible the historical archives of Cambodia's 'S-21' jail in Phnom Penh. From 1975 through 1979, the location was used as an interrogation and extermination facility by the dictatorship of 'Democratic Kampuchea,' also known as the Khmer Rouge rule.'",
+            "paragraph2": "Tuol Sleng, better known as 'S-21,' was one of the most notorious interrogation and extermination facilities of the 'Democratic Kampuchea'administration (1975-79). S-21, once a school facility, housed almost 18,000 political prisoners and their families. Prisoners were ruthlessly tortured and murdered on the spot or on Cheung Ek's killing ground. In 1979, the buildings of 'S-21' were seized as vital evidence for the regime's misdeeds and transformed into a museum. The 'Extraordinary Chambers in the Courts of Cambodia' (ECCC), often known as the Khmer Rouge Tribunal or the Cambodia Tribunal, handed down its decision on the former director of the S-21 prison, Kaing Guek Eav, or 'Duch,'' for crimes against humanity and war crimes in 2010",
+            "paragraph3": " ",
+            "previous": "Phnom Penh",
+            "src": "index2.html",
+            "footerImg": "Phnom_Penh.jpg",
+            "next": "Royal Palace",
+            "src1": "index1_Web.html",
+            "nextImg":"Phnom Penh.jpg"
+            
+        }
+    ],
+    [
+        {
+            "ID": "page5",
+            "Headers": "Top Place to Visit at Phnom Penh",
+            "tilte": "Royal Palace",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Phnom Penh.jpg",
+            "paragraph1": "The Royal Palace, gleaming in gold, is one of Phnom Penh's most magnificent architectural achievements. His Majesty Preah Bat smdech Preah Norodom Sihanouk and Her Majesty Preah Reach Akka-Mohesey Norodom Monineath live there. His Majesty Preah Bat Norodom, our current King's great grandfather, erected the palace in 1866. The Royal Palace stands on the ruins of the ancient town. A Commission of Royal Ministers and Astrologers picked this location specifically because it had tremendous geographical importance in connection to the King, who was seen as a direct descendant of the gods, whose function it was to live and govern on earth under the influence of heaven.",
+            "paragraph2": "The Royal Palace has various remarkable structures. Not to mention the Throne Hall, which is located to the left of the main entrance. It has a 59-meter-tall tower.The tower's roof is stunning, with elaborate tiered gold-colored tiles. This structure is utilized for high-level formal events such as coronations and audiences with foreign dignitaries and government officials.",
+            "paragraph3": "Tourists are only permitted to tour the Throne Hall and a few of the structures around it. All guests must wear knee-length shorts and a T-shirt or blouse that reaches the elbows;otherwise, you will be required to purchase an acceptable sarong as a covering at the ticket counter. On Sundays, when countryside Khmers come to pay their respects, the palace becomes quite crowded,yet being among masses of locals may be a wonderful way to explore the area.",
+            "previous": "Tuol Sleng Genocide Museum",
+            "src": "index1_Web.html",
+            "footerImg": "Tuol_Sleng.jpg",
+            "next": "National Museum",
+            "src1": "index1_Web.html",
+            "nextImg":"National_museum.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page6",
+            "Headers": "Top Place to Visit at Phnom Penh",
+            "tilte": "National Museum",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "National_museum.jpg",
+            "paragraph1": "The National Museum of Cambodia houses the world's best collection of Khmer sculpture, spanning millennia of outstanding Khmer design. It is located in a charming terracotta structure of classical architecture (constructed between 1917 and 1920), close north of the Royal Palace, with an appealing courtyard garden.",
+            "paragraph2": "The National Museum of Cambodia houses the world's best collection of Khmer sculpture, spanning millennia of outstanding Khmer design. It is located in a charming terracotta structure of classical architecture (constructed between 1917 and 1920), close north of the Royal Palace, with an appealing courtyard garden.",
+            "paragraph3": "There are guides that speak both French and English accessible. Alternatively, you may purchase a brochure that contains pertinent information on the locations of the museum's most important exhibits. Postcards, imitation sculptures, and books on art and culture may be purchased from the store located near the main entrance.",
+            "previous": "Royal Palace",
+            "src": "index1_Web.html",
+            "footerImg": "Phnom Penh.jpg",
+            "next": "Phnom Penh",
+            "src1": "index2.html",
+            "nextImg":"Phnom_Penh.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page7",
+            "Headers": "Top Place to Visit at Sihanoukville",
+            "tilte": "Independence Beach",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Independence_beach.jpg",
+            "paragraph1": "Independence Beach gets its name from the deserted hulk of the 7 -storey Independence Hotel at the north end. Locals call this beach 'otel bram-pil chann (hotel 7-stories).It is labeled '7-Chann Beach' on the in-town street sign. Independence is more than a kilometer long, but the sandy area is much narrower making the beach best when the tide is low.The beach is wider and more tourists toward the northwest end near a small fresh water lake (which is the source of the town's fresh water and is rumored to contain crocodiles). At the other end is the beach's only hotel, Sea Breeze. Grass umbrellas and drink vendors only hotel, Sea Breeze.",
+            "paragraph2": "The nicest things to do at Independence Beach in Sihanoukville, Cambodia, are to relax and observe the tranquil activities of nature. You may actually lie down while sunbathing on the perfectly clean coastline, with a nice sea wind brushing across your face. If you become tired of the heat, you may always take a break beneath one of the grass umbrellas that are so popular here. Sihanoukville's Independence Beach is also great for a picnic with friends, family, and loved ones. Furthermore, there are various tiny restaurants and food stands in the Independence Beach area of Sihanoukville, ensuring that you are well-supplied with delectable sea cuisine delicacies during your visit.",
+            "paragraph3": "",
+            "previous": "Koh Rong",
+            "src": "index1_Web.html",
+            "footerImg": "Phnom Penh.jpg",
+            "next": "Phnom Penh",
+            "src1": "index2.html",
+            "nextImg":"Phnom_Penh.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page8",
+            "Headers": "Top Place to Visit at Sihanoukville",
+            "tilte": "Independence Beach",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Independence_beach.jpg",
+            "paragraph1": "Independence Beach gets its name from the deserted hulk of the 7 -storey Independence Hotel at the north end. Locals call this beach 'otel bram-pil chann (hotel 7-stories).It is labeled '7-Chann Beach' on the in-town street sign. Independence is more than a kilometer long, but the sandy area is much narrower making the beach best when the tide is low.The beach is wider and more tourists toward the northwest end near a small fresh water lake (which is the source of the town's fresh water and is rumored to contain crocodiles). At the other end is the beach's only hotel, Sea Breeze. Grass umbrellas and drink vendors only hotel, Sea Breeze.",
+            "paragraph2": "The nicest things to do at Independence Beach in Sihanoukville, Cambodia, are to relax and observe the tranquil activities of nature. You may actually lie down while sunbathing on the perfectly clean coastline, with a nice sea wind brushing across your face. If you become tired of the heat, you may always take a break beneath one of the grass umbrellas that are so popular here. Sihanoukville's Independence Beach is also great for a picnic with friends, family, and loved ones. Furthermore, there are various tiny restaurants and food stands in the Independence Beach area of Sihanoukville, ensuring that you are well-supplied with delectable sea cuisine delicacies during your visit.",
+            "paragraph3": "",
+            "previous": "Koh Rong",
+            "src": "index1_Web.html",
+            "footerImg": "Phnom Penh.jpg",
+            "next": "Phnom Penh",
+            "src1": "index2.html",
+            "nextImg":"Phnom_Penh.jpg"
+        }
+    ],
+    [
+        {
+            "ID": "page9",
+            "Headers": "Top Place to Visit at Sihanoukville",
+            "tilte": "Independence Beach",
+            "writer": "Lun Rabou",
+            "date": "Th 28, 2022",
+            "image": "Independence_beach.jpg",
+            "paragraph1": "Independence Beach gets its name from the deserted hulk of the 7 -storey Independence Hotel at the north end. Locals call this beach 'otel bram-pil chann (hotel 7-stories).It is labeled '7-Chann Beach' on the in-town street sign. Independence is more than a kilometer long, but the sandy area is much narrower making the beach best when the tide is low.The beach is wider and more tourists toward the northwest end near a small fresh water lake (which is the source of the town's fresh water and is rumored to contain crocodiles). At the other end is the beach's only hotel, Sea Breeze. Grass umbrellas and drink vendors only hotel, Sea Breeze.",
+            "paragraph2": "The nicest things to do at Independence Beach in Sihanoukville, Cambodia, are to relax and observe the tranquil activities of nature. You may actually lie down while sunbathing on the perfectly clean coastline, with a nice sea wind brushing across your face. If you become tired of the heat, you may always take a break beneath one of the grass umbrellas that are so popular here. Sihanoukville's Independence Beach is also great for a picnic with friends, family, and loved ones. Furthermore, there are various tiny restaurants and food stands in the Independence Beach area of Sihanoukville, ensuring that you are well-supplied with delectable sea cuisine delicacies during your visit.",
+            "paragraph3": "",
+            "previous": "Koh Rong",
+            "src": "index1_Web.html",
+            "footerImg": "Phnom Penh.jpg",
+            "next": "Phnom Penh",
+            "src1": "index2.html",
+            "nextImg":"Phnom_Penh.jpg"
+        }
+    ]
+]

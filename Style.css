@@ -1,0 +1,279 @@
+*{
+    margin:0;
+    padding: 0;
+}
+/*  */
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding:10px 20px !important;
+  margin: 8px 0 !important;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0 ;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  display: block;
+  width: auto;
+  padding: 10px 18px;
+  margin: auto;
+  background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px !important;
+  margin-top:0 !important;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px !important;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto !important; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+/*  */
+.header{
+    height:100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(travel.jpg);
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+.header img{
+    width: 170px;
+    float:left;
+}
+.login-btn{
+    width: 100px;
+    padding: 8px 0;
+    outline: none !important;
+    border:2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color: #fff;
+    float: right;
+
+}
+.header h1{
+    padding-top: 260px;
+    padding-bottom: 0;
+    font-size: 55px;
+    
+}
+.header p{
+    margin: 18px 0;
+}
+.input-group{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background: #fff;
+    margin: auto;
+    padding: 2px;
+
+}
+.form-control{
+    border: 0 !important;
+    border-radius:30px !important;
+    margin:2px;
+    box-shadow: none !important;
+}
+.input-group-text{
+    width:100px;
+    height: 40px;
+    background-image: linear-gradient(#00ff7e,#00ffff);
+    border: 0 !important;
+    color: #fff !important;
+    padding: 0 25px !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+}
+.features{
+    padding: 10px 0;
+
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-img img{
+    height: 50%;
+    width:100%;
+}
+.price{
+    width:50px;
+    height:50px;
+    background: #ff5722;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    border-radius: 50%;
+    padding:  10px;
+    box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    position: absolute;
+    left:20px;
+    bottom: -25px;
+}
+/*  */
+
+/*  */
+.feature-img{
+    position: relative;
+}
+.rating{
+    padding: 3px;
+    float:right;
+    background: #fff;
+    bottom: -1px;
+    right: 0;
+    position: absolute;
+}
+.features .fa {
+    font-size: 15px;
+    color:gold;
+}
+.features .fa-solid{
+  font-size: 15px !important;
+  color: #00ff7e !important;
+}
+.feature-details{
+    padding: 20px;
+    text-align: justify;
+
+}
+.feature-details h4{
+    font-weight: 600;
+    margin-top:20px;
+
+}
+.feature-details .fa{
+    margin-right: 5px;
+    color: green;
+}
+.feature-box
+{
+    box-shadow:0 0 10px 1px rgba(37,73,214,0.18);
+    margin-bottom: 30px;
+}
+.footer{
+    padding: 70px 20px;
+    background-image: linear-gradient(#2d557d,#9610fd);
+    color: white;
+}
+.footer-logo{
+    width:150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer h4{
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+.center{
+    font-size:15.5px !important;
+    text-align: justify!important;
+    font-weight: bolder;
+}
+.footer p{
+    font-size:12px;
+    text-align: justify;
+    padding-right: 35px;
+}
